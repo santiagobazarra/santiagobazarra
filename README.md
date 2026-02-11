@@ -39,15 +39,6 @@
 </p>
 
 ---
-
-### 📊 Mi Actividad en GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagobazarra&layout=compact&langs_count=6&theme=react&hide_border=true&bg_color=0d1117&locale=es" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=santiagobazarra&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&locale=es" />
-</p>
-
----
 <p align="center">
   <em>Desarrollado con pasión por Santiago López Bazarra</em>
 </p>
